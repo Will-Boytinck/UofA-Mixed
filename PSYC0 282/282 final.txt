@@ -1,0 +1,188 @@
+
+----------------------------------------------
+***Shaping***
+- the differential reinforcement of successive approximations of the target behaviour
+- shaping is used when the target behaviour is not in the person's behavioural repetoire
+- we start by choosing a behaviour closest to the target, reinforce it, next we no longer reinforce it (extinguish), this results in an extinction burst and novel behaviours, then pick the behaviour that is closest to the target behaviour... repeat
+(quantitative shaping) : setting criteria to increase or decrease a dimension of an existing behaviour
+(qualitative shaping)  : degress to which successive behaviours resemble target behaviour
+How to use shaping:
+1. Define target behaviour
+2. determine whether shaping is the most appropriate procedure
+	- if the person never exhibits target behaviour
+	- if you cannot tell the person to perform target behaviour
+3. Identify starting behaviour/ and approximations -- figure out what reinforcement you want to use
+----------------------------------------------
+***Prompting and transfer of stimulus control***
+Prompting: giving stimuli before (or during) performance of a behaviour to increase the likelihood that a person will engage in the target behaviour
+	- prompts supplement the normal sD or modify it
+(response prompt) : behaviour of another person that evokes the target behaviour 
+	[verbal prompt]: hints, instructions, commands...
+	[gestural prompt]: physical movements that indicate how, where, or what
+	[modeling prompt]: demonstration of the entire target behaviour by another person
+	[physical guidance prompt]: another person physically assists in the execution of the target behaviour
+(three step prompting): use prompts progressively, starting with verbal, then modeling, and finally physical
+(stimulus prompt) : sD is changed, or stimulus is added or removed to encourage target behaviour
+	[within-stimulus prompt]: involves changing the sD
+	[extra-stimulus prompt] : involves adding a stimulus to the sD                  
+	
+transfer of stimulus control: prompts are faded, or eliminated so that the target behaviour occurs to the normal sD alone, behaviour continues to be reinforced
+(fading): gradual elimination of prompting so that it is eventually no longed needed
+(response prompt fading): response prompt is gradually lessened
+	[fading within prompt]: same prompt is used, but is decrease din magnitude or intensity
+	[fading across prompts]: prompt is changed according to a prompting hierarchy
+	[most to least prompting and fading]" prompts change from more intrusive to less instrusive
+	[least to most prompting and fading] : start with the least instrusive prompt
+(graduated guidance): used in fading physical guidance prompts
+(stimulus prompt fading): stimulus prompt is decreased in magnitude or frequency
+(prompt delay): present sD, wait a certain number of seconds, and if target behaviour does not occur, provide the prompt
+- prompting is not appropriate when behaviour is not produced due to noncompliance
+- always present the sD (reinforcement)
+----------------------------------------------
+***Chaining***
+behavioural chain / stimulus response chain: complex behaviour comprised of several component behaviours that occur together in a certain order
+task analysis: identifying all antecedent stimuli and responses in the sequence that comprises a behavioural chain
+	can be conducted in several ways:
+		1. behaviour analyst performs the task himself, recording all sD and responses
+		2. observe someone who is competent at the task
+		3. recruit an expert, who describes all sDs and responses
+(total task presentation): individual attemps all links in the chain from beginning to end, natural reinforcement is given only after the last link
+(backward chaining): prompting and fading are used to teach a complex behaviour starting with the last link, next second last link is added
+	pros: typically used with learners who have limited abilitie
+	cons: requires additonal preparation by behaviour analyst
+(forward chaining): prompting and fading are used to teach a complex behaviour starting with the first link
+	pros: retains sequential order
+self prompting:
+	[written task analysis]: learner uses a list of instructions that comprise the behaviour chain
+
+----------------------------------------------
+***Functional assessment***
+(functional assessment): a set of procedures that allow relationships between a behaviour and its antecedents and consequences to be determined
+(indirect methods) : data on antecedents, behaviours, and consequences are collected from the target person or others who know them
+(direct observation methods (descriptive assessment)): data on antecedents, behaviours, and consequences is gathered as the behaviour occurs in its natural environment 
+	[unstructure]: naturalistic observation
+	[structured]: systematic manipulation
+(experimental methods (functional analysis)):  an experimenter systematically manipulates antecedents and consequences to determine their effect on target behaviour
+----------------------------------------------
+***applying extinction***
+How to apply extinction:
+1. define problem behaviours
+2. conduct a functional assessment
+3. eliminate the reinforcement
+4. consider the schedule of reinforcement for the problem behaviour
+5. reinforce alternative behaviours
+6. promote generalization (behaviour occurs across different situations) and maitenance (behaviour change perists over time)
+----------------------------------------------
+***Differential reinforcement***
+(differential reinforcement of alternative behaviour DRA): a procedure in which an undesirable behaviour is no longer reinforced and a desirable behaviour is reinforced
+	- can be delivered immediately and consistently, then switch from continuous to intermittent
+(differential reinforcement of negative alternative behaviour DNRA): a procedure in which an undesirable behaviour is no longer reinforced and a desirable behaviour is negatively reinforced
+(differential reinforcement of incompatible behaviour DRI): an undesirable behaviour is extinguished
+and a behaviour that is impossible to do at the same time is reinforced
+(functional communication training FCT): subtype of DRA, in which the alternative behaviour is a communication response -- reinforcement of functionally equivalent behaviour
+(differential reinforcement of other behaviour DRO): undesirable behaviour is extinguished, and a reinforcer is delivered after a period of time the behaviour does not occur
+	[whole interval DRO]: reinforcer delivered if problem behaviour is absent during the entire 	interval
+	[momentary DRO]: reinforcer delivered if problem behaviour is absent at the end of interval
+(differential reinforcement of low rates of responsing DRL): a behaviour is reinforced to decrease the rate of that behaviour -- reduce but not eliminate
+	[Full session DRL]: reinforcer delivered if target behaviour occurs fewer than a certain number of times during a session
+	[spaced-responding DRL]: reinforcer delivered if a certain amount of time has elapsed since last target behaviour
+----------------------------------------------
+***Antecedent control procedures***
+(antecedent control procedures): antecedent stimuli are manipulated to evoke desirable behaviours that can be differentially reinforced
+1. Presenting EO for desirable behaviour
+2. Decreasing response effort for desirable behaviour
+3. removing or modifying existing sD for undesirable behaviour (dog jumping)
+4. presenting AO for undesirable behaviour 
+5. increasing response effort for undesirable behaviour
+6. Noncontingent reinforcement (free reinforcement)
+
+SD: indicates that reinforcement is available after behaviour
+MO: alters the value of a reinforcer
+----------------------------------------------
+***applying punishment***
+Time in/ Time out: wristband example
+(Time out from positive reinforcement): loss of access to positive reinforcement following an undesirable behaviour
+	[nonexclusionary time-out]: after an undesirable behaviour, person remains in the same room or location, denied access to reinforcement
+		{contingent observation}: person is denied access to reinforcers, and must observe others engaging in activities
+	[exclusionary time-out]: following an undesirable behaviour, moved to a different location and denied reinforcers
+	[isolation time-out]: timeout but isolated and alone
+(contingent delay): time out does not end if behaviour has not ceased
+(response cost): removal of reinforcer following undesirable behaviour
+
+types of aversive activities:
+	(overcorrection): person has to perform effortful behaviours contingent on the problem behaviour
+		[positive practice]: repeatedly perform a behaviour
+		[restitution]: correct the effects of the problem behaviour
+		[contingent excercise]: after a problem behaviour, a person must perform excercise
+		[guided complicance]: after a problem behaviour, a person is physically guided to complete a requested behaviour
+		[response interupption]: combines blocking behaviour response and differential 		reinforcement
+		
+----------------------------------------------
+***generalization and maitenance***
+(generalization): behaviour occurs in the presence of an sD that is similar to that used in training
+(response maitenance): extension of behaviour change over time
+(transfer of behaviour across situations and settings): behaviour change takes place in new/different settings
+(response generalization): altering one behaviour leads to similar changes in another, unaddressed response
+(in situ training): training occurs in the natural environment after an in situ assessment in which the person does not perform the target behaviour 
+(response class): teach a range of functionally equivalent responses
+(general case training/programming): use a range of antecedents as well as a range of responses
+(generalization probes): trails that check whether the person performs the behaviour with relevant natural antecents/contexts
+----------------------------------------------
+***self management***
+(self management): engaging in one behaviour to control or prevent the occurrence of a target behaviour
+(controlling behaviour): behaviour that influences future occurrence of the controlled response
+(controlled behaviour): the behaviour that you want to change
+(behavioural contract): written document that specifies the target behaviour/ time frame for achieving it/ contingencies that affect the target behaviour    
+(ego depletion): after exterting self-control on one task, you will be less effective on a subsequent self-control task
+----------------------------------------------
+***habit reversal procedures***
+(Habit reversal Training):
+	[Awareness training]: Person is taught to describe the problem behaviour and then to watch for it
+	[Competing response training]: Taught to perform behaviour that is incompatible with the target 	behaviour
+	[Motivation strategy]: behaviour analyst works with client to determine situations and antecedents
+	for the target behaviour
+(Aversion therapy): a form of respondent conditioning which involved the repeated pairing of a troublesome
+reinforcer with an aversive event
+(Massed negative practice): a punishment procedure that requires the person to repeat the undesired behaviour for a some time period contingent on the occurrence of the target behaviour
+----------------------------------------------
+***token economies***
+(token): a tangible symbol that can be given after a behaviour and exchanged for reinforcers -- called backup reinforcers
+CRF reinforcement when starting, intermittent when established
+
+
+----------------------------------------------
+***fear and anxiety reduction***
+(respondent entinction): presenting a CS repeatedly without the US
+(In vivo CS): real life events, objects or people
+(imaginal CS): mental representation of events, objects, or people
+(symbolic CS): overt representation of events, objects, or people
+(Counter-conditioning): involves presenting the CS without the US
+(autogenic training): person imagines being in a pleasant place
+(Systematic desensitization): applied to reverse a person's learned fear response, person learns relaxation techniques, person then develops stimulus hierarchy (based on units of discomfort)
+(reciprocal inhibition): relaxation response decreases fear response
+(in vivo desensization): person is gradually exposed to the actual stimulus that is fear producing
+(flooding/ response prevention): person is exposed to a feared object for prolonged period of time
+(modeling): phobic person watches someone else performing feared behaviour
+	[participant modeling]: observe, then encouraged to join in
+	
+----------------------------------------------
+***cognitive behavioural therapies***
+
+(Rational-Emotive Behaviour Therapy): based on the assumption irrational interpretations predict that certain events will be emotionally unpleasant
+A-B-C-D-E paradigm: Acticating events occur - Beliefs - Consequences - Dispute - Emotional Relief
+(Cognitive Therapy): Faulty and negativistic thought patterns lead to behavioural and emotional problems
+	- negative automatic thoughts: bad cognitions are automatically generated by distorted stored beliefs
+			[selective abstraction]: one particular detail takes precedence while ignoring the overall context
+			[personalization]: erroneously attributing an external event to yourself
+			[overgeneralization]: drawing an overly general conclusion based on a single incident
+			[arbirtrary inference]: drawing inaccurate conclusions based on insufficient evidence
+	- therapy applies (collaborative empiricism): which is a collaborative approach between client and therapist using hypothesis testing
+
+(Cognitive Coping Skills training): Some problems are maintained by a deficit of adaptive cognitions - focuses on training new thinking skills
+	[Self instructional Training]: identify self instructions, use behavioural skills training to teach self instructions 
+	[self inoculation training]: traches cognitive skills to deal with stressful events
+		- conceptualization phase -- therapist collaborates with client
+		- skills acquisition phase -- teaches specific behavioural and cognitive skills
+		- application phase
+	
+----------------------------------------------

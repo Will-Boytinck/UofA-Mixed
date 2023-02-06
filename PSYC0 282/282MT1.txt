@@ -1,0 +1,120 @@
+Methods
+-------
+1. Screening or intake phase: obtain client information, and readons for seeking assistance
+2. baseline phase: define and measure initial level of behaviour
+3. treatment phase
+4. follow-up phase
+
+How is behaviour recorded?
+1. Direct assessment: recorded as it occurs
+2. indirect assessment: based on second-hand remembered information
+
+When are observations made?
+1. Continuous recording: record every instance of client's behaviour during the entire observation period
+:pros/cons
+- provides actual measure of behaviour 
+- well suited to self-monitoring
+- very labour intensive
+2. Intverval recording: recording target behaviour within successive time intervals
+:pros/cons
+- less demanding than continuous recording
+- less sensitive to true occurence of behaviour
+3. Time sample recording: record behaviour during brief intervals separated from each other
+:pros/cons
+- easiest to record
+- more subject to sampling error 
+
+Thorndike's Law of effect
+- behaviour followed by pleasant consequences is more likely to occur again in that situation
+
+Operatant: a behaviour that operates on the environment 
+Operatant Conditioning: entails manipulating consequences of behaviour 
+
+
+positive reinforcement - presentation of a pleasant stimulus increases behaviour
+	
+negative reinforcement - removal of a aversive stimulus increases behaviour
+
+positive punishment - presentation of an aversive stimulus decreases behaviour
+	application of aversive activities: requires the individual to do aversive activity
+	application of aversive stimulation: delivers an aversive stimulus
+negative punishment - removal of an pleasant stimulus decreases behaviour
+	time-out from positive reinforcement: removes individual from reinforcing environment
+	response cost: punishes behaviour by taking away a valued item
+
+	
+
+
+escape behaviour: removing an aversive stimulus (you feel cold, put on a sweater)
+avoidance behaviour: prevents presentation of an aversive stimulus (put on a sweater before going outside)
+
+Types of reinforcement
+---------------------
+natural reinforcement: occurs naturally
+programmed reinforcement: planned and systematic
+
+social reinforcement: involves another person to deliver reinforcement
+automatic reinforcement: gets reinforcement from the environment
+
+
+tangible reinforcement: access to a preferred object (like a snack)
+activity reinforcement: engaging in a preferred activity (like video games)
+---------------------
+
+Premack principle: a preferred behaviour can serve as positive reinforcement for performing
+a less preferred behaviour 
+
+
+Types of reinforcers
+-------------------
+Unconditioned (primary) reinforcers: a stimulus that has natural reinforcing effects (food)
+Conditioned (secondary) reinforcers: previous neutral stimulus that has become associated with an unconditioned reinforcer (money)
+
+Types of punishers
+------------------
+Unconditioned (primary) punisher: stimulus that is naturally aversive 
+Conditioned (secondary) punisher: previously neutral stimulus that has become associated with an unconditioned punisher (threats)
+
+Skinners Three-term contingency:
+"in the presence of a particular antecedent cue or signal (stimulus), a specific behavious
+will be followed by a certain consequence
+
+
+
+Establishing operation: establishes the effectiveness of reinforcement: (i.e caloric deprivation for food)
+Abolishing operation: decreases the effectiveness of reinforcement (fullness for food)
+
+Schedules of reinforcement
+--------------------------
+Continuous: reinforcement gives for each response
+Intermittent: only some responses are reinforced
+	- fixed ratio: reinforcer given after a set number of responses
+	- variable ratio: reinforcer is given after a random number of responses
+Fixed interval: reinforcer given after a certain length of time
+Variable Interval: reinforcer given when response occurs after a variable length of time
+--------------------------
+
+
+
+
+overt antecedents - stimuli directly observable with your senses 
+covert antecedents - internal experiences
+
+immediate antecents - occur right before or overlap with behaviour (i.e fire alarm)
+distant antecedents - stimuli that precede the behaviour by a long time; can also affect behaviour for a long time
+
+stimulus control - the extent to which an antecedent stimulus can influence perforamnce of a specific behaviour
+
+stimulus class - related stimuli that have the same effect on behaviour
+
+SD (discriminatory stimulus) ---> R (response) ---> SR (reinforcing stimulus)
+S-delta ---> R ---> nothing
+---------------------------------------------
+respondent behaviours are elicited or controlled by stimuli
+Respondent conditioning: entails manipulating stimuli that elicit reflexive responses
+conditioned response: response elicited by a conditioned stimulus
+trace conditioning: Neutral stimulus presented before the unconditioned stimulus (no overlap)
+delay conditioning: onset of neutral stimulus occurs before onset of unconditioned stimulus
+simultaneous conditioning: neutral stimulus and unconditioned stimulus are presented at the same time
+backward conditioning: unconditioned stimulus presented before neutral stimulus
+respondent extinction: repeated presentation of CS without US causes weakening of CR

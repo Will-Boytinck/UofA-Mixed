@@ -1,0 +1,69 @@
+shaping: successive approximations of the target behaviour
+behaviours are not
+quantitative shaping: setting criteria to increase (or decrease) a dimension of an existing behaviour
+qualitative shaping: degree to which successive behaviours resemble the target behaviour
+
+Prompting: giving stimuli before (or during) performance of a behaviour to increase the likelihood that a person will engage in the target behaviour at the correct time
+
+Types of prompts:
+- response prompt: behaviour of another person that evokes the target behaviour from the target person when the sD is also present
+	verbal prompt: hints, instructions, commands
+	gestural prompt: physical movements that indicate how, where or what behaviour to 	preform
+	modeling prompt: demonstrating the target behaviour
+	physical guidance propmpt: another person physically assits
+	three-step prompting: use prompts progressively (verbal --> modeling --> physical)
+stimulus prompt: sD is changed, or simulus is added or removed to encourage target behaviour
+	within-stimulus prompt: involves changing the sD
+	extra-stimulus prompt: involves adding a stimulus to the sD
+	picture-prompt: photos
+	auditory prompt: sounds
+	environmental prompts: alterations or additions to the physical surroundings
+
+transfer of stimulus control: prompts are faded / reduced prompts
+response prompt fading: response prompt is gradually lessened
+	fading within prompt: same prompt is used but is decreased in magnitude or intensity
+	graduated guidance: gradually reducing physical guidance
+	shadowing: follows learners movement without contact
+	prompt delay: wait a certain number of seconds and if the target behaviour does not 	occur, provide the prompt
+
+behavioural chain: complex behaviour comprised of several component behaviours that occur in a certain order
+	-suitable for tasks that are not overly long or complex
+	- not appropriate for people with developmental disabilities
+backward chaining - start with the last link
+	- typically used with learners who have limited abilities
+	- requires additional preparation by behaviour analyst
+forward chaining - start with the first link
+	- retains squential order
+
+functional assessment: a set of procedures that allow relationships between a behaviour and its antecedents to be determined
+
+indirect methods: data on actecedents, behaviours, consequences are collected from the target person / others based on their memory
+
+direct observation methods: as the behaviour occurs in its natural environment
+	unstructured: naturalistic observations
+	structured: systematic manipulation
+	- pros: do not rely on fallibe memory
+	- cons: involds more work
+
+experimental methods (functional analysis): an experimenter systematically manipulates antecedents and consequences to determine their effect on the target behaviour
+
+differential reinforcement: one particular behaviour is reinforced whereas all others are not
+ 
+differential reinforment of alternative behaviour (DRA): undesirable behaviour is no longer reinforced and alternative behaviour is reinforced
+differential reinforcement of incompatible behaviour: undesirable behaviour is extinguished and a behaviour that cant be done at the same time as the undesirable behaviour is reinforced
+differential reinforcement of other behaviour: undesirable behaviour is extinguished, and a reinforcer is delivered after a period of time in which the behaviour does not occur
+	whole interval DRO: reinforcer delivered if problem behaviour is absent during the
+	entire interval
+	momentary DRO: reinforcer delivered if problem behaviour is absent at the end of the 	
+	interval
+
+Antecedent control procedures: antecedent stimuli are manipulated to evoke desirable behaviours that can be differentially reinforced
+1. presenting, modifying or developing new sD for desirable behaviour (seatbelts comic)
+2. presenting EO for desirable behaviour
+3. decreasing response effort for desirable behaviour (make it easier to do behaviour) -- (paper in trash)
+4. removing or modifying existing sD for undesirable behaviour (dog jumping)
+5. presenting AO for undesirable behaviour
+6. Increasing response effort for undesirable behaviour (kitchen safe)
+Note: sD indicates that reinforment follows behaviour
+7. noncontingent reinforcement: a form of antecedent intervention in which known reinforcers are given for free (dimishes undesirable behaviour.. passively?)
+	
